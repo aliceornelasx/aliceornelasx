@@ -8,7 +8,7 @@
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right"  alt="alice-gif" height="300" width="300" src="https://cdn.discordapp.com/attachments/917603968530669572/955722370738450482/alice.gif">
+  <img align="right"  alt="alice-gif" height="200" width="200" src="https://cdn.discordapp.com/attachments/917603968530669572/955722370738450482/alice.gif">
   </div>
   
   ##
