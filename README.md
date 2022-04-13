@@ -25,7 +25,7 @@ src="https://cdn.discordapp.com/attachments/917603968530669572/95572237073845048
 
   
   - [![Linkedin Badge](https://img.shields.io/badge/-Alice%20Lima-291B3E?style=flat-square&logo=Linkedin&logoColor=ff64da&link=https://https://www.linkedin.com/in/aliceornelasx/)](https://www.linkedin.com/in/aliceornelasx/) 
-  - [![Gmail Badge](https://img.shields.io/badge/-aliceornelasx@gmail.com-291B3E?style=flat-square&logo=Gmail&logoColor=ff64da&link=mailto:aliceornelasx@gmail.com)](mailto:aliceornelasx@gmail.com)
+  - [![Gmail Badge](https://img.shields.io/badge/-aliceornelasx@hotmail.com-291B3E?style=flat-square&logo=Gmail&logoColor=ff64da&link=mailto:aliceornelasx@hotmail.com)](mailto:aliceornelasx@hotmail.com)
     </div>
     
     
