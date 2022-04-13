@@ -1,6 +1,6 @@
 ## Hi 👋
+<div> My name is Alice Lima, I'm from Brazil </div>
 <div align="center">
-  <div> My name is Alice Lima, I'm from Brazil </div>
   <a href="https://github.com/aliceornelasx">
  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=aliceornelasx&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliceornelasx&layout=compact&langs_count=7&theme=dracula"/>
