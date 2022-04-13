@@ -1,7 +1,7 @@
 ## Hi 👋
 <div> My name is Alice Lima, I'm from Brazil </div>
 <div> I'm currently studying Systems Analysis and Development at "Universidade Santa Cecília"🎓 </div>
-  <div> My goal is to become and work as a Front-end developer. 👩‍💻💻 </div>
+  <div> My goal is to become and work as a **Front-end developer**. 👩‍💻💻 </div>
 <div align="center">
   <a href="https://github.com/aliceornelasx">
  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=aliceornelasx&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -13,9 +13,11 @@
   <img align="center" alt="Alice-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="right"  alt="alice-gif" height="150"style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/917603968530669572/955722370738450482/alice.gif">
   </div>
- 
+  <div>
    <li> 🔎Always open to new challenges </li>
    <li> 📚Passionate about learning </li>
+  </div>
+  <div> My journey as becoming a dev is just beginning, but I already have notions on JavaScript.👾 </div>
   
  
   ##
