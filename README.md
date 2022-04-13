@@ -13,6 +13,10 @@
   <img align="center" alt="Alice-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="right"  alt="alice-gif" height="150"style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/917603968530669572/955722370738450482/alice.gif">
   </div>
+ <div>
+   <li> 🔎Always open to new challenges </li>
+   <li> 📚Passionate about learning </li>
+  </div>
  
   ##
   <div> Reach me out 👇 </div>
