@@ -8,7 +8,6 @@ My goal is to become and work as a **Front-end developer**. 👩‍💻
 - 🔎Always open to new **challenges**
 - 📚Passionate about learning
  
-###  **“A persistência é o caminho do êxito.”** ✨
 <div>
   <a href="https://github.com/aliceornelasx">
  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=aliceornelasx&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
@@ -20,7 +19,7 @@ src="https://cdn.discordapp.com/attachments/917603968530669572/95572237073845048
 </div>
   
 ##
- ### **Reach me** 👇
+ ### **Links** 👇
 
 
   
